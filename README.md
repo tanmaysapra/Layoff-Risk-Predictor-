@@ -152,9 +152,11 @@ MAE vs Alpha (Ridge/Lasso)
 
 ## Author
 
-**Pravenraam Shankar** : [GitHub Profile – praventhegenius](https://github.com/praventhegenius)
+
 
 **Tanmay Sapra** : [GitHub Profile – tanmaysapra](https://github.com/tanmaysapra)
+
+**Pravenraam Shankar** : [GitHub Profile – praventhegenius](https://github.com/praventhegenius)
 
 
 ---
