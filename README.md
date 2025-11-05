@@ -7,9 +7,7 @@ This project compares multiple regression models — from simple linear regressi
 
 ## Repository
 
-🔗 **GitHub:** [https://github.com/praventhegenius/Layoff-Risk-Predictor.git](https://github.com/praventhegenius/Layoff-Risk-Predictor.git)
-
----
+🔗 https://github.com/tanmaysapra/Layoff-Risk-Predictor-
 
 ## Overview
 
